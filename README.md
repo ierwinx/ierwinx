@@ -1,3 +1,5 @@
+![ios Developer](https://github.com/ierwinx/ierwinx/blob/main/baner1.jpeg)
+
 ### Hi there, its _Erwin_ ✨ 👋
 
 - 🔭  I’m currently working as Software Engineer
