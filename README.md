@@ -1,4 +1,4 @@
-![ios Developer](https://github.com/ierwinx/ierwinx/blob/main/baner1.jpeg)
+![ios Developer](https://github.com/ierwinx/ierwinx/blob/main/baner1.jpg)
 
 ### Hi there, its _Erwin_ ✨ 👋
 
