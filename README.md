@@ -7,4 +7,4 @@
 - 👯  I’m looking for collaborate with a open source developer
 - 🤔  I’m looking for help with advance themes with swift
 - 💬  Ask me about my code and my personal life
-- 😎  Watch my work https://ierwinx.com
+- 😎  Explore my work https://ierwinx.com
