@@ -1,4 +1,4 @@
-![ios Developer](https://github.com/ierwinx/ierwinx/blob/main/baner1.jpg)
+<img src="https://github.com/ierwinx/ierwinx/blob/main/baner.jpg" alt="iOS Developer" width="100%">
 
 ### Hi there, its _Erwin_ ✨ 👋
 
