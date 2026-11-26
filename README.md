@@ -9,6 +9,8 @@
 - 💬  Ask me about my code and my personal life
 - 😎  Explore my work https://ierwinx.com
 
+### Estadísticas 📊
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ierwinx&theme=blueberry&locale=es)](https://git.io/streak-stats)
 
 ![ierwinx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ierwinx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
